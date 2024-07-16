@@ -1,5 +1,13 @@
 # Coffee Sales Analysis Using Excel
-### A sales transaction project carried out in Microsoft Excel on data cleaning and gathering, use of Excel functions (such as IF, VLOOKUP,INDEX,MATCH), Pivot tables, Pivot charts and a dashboard
+#### A sales transaction project carried out in Microsoft Excel on data cleaning and gathering, use of Excel functions (such as IF, VLOOKUP,INDEX,MATCH), Pivot tables, Pivot charts and a dashboard
+
+## Table of Content
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Excel Utilization for Data Management and Visualization](#excel-utilization-for-data-management-and-visualization)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
 
 ### Project Overview
 This sales analysis project aims to provide insights into the sales performance of a coffee shop from 2019-2022. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendation and gain a deeper understanding of the company's performance.
