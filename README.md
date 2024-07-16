@@ -11,6 +11,8 @@
 
 ### Project Overview
 This sales analysis project aims to provide insights into the sales performance of a coffee shop from 2019-2022. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendation and gain a deeper understanding of the company's performance.
+[AnitaExcelProject.xlsx](https://github.com/user-attachments/files/16255733/AnitaExcelProject.xlsx)
+
 
 ### Data Source
 The primary dataset used for thisanalysis is the "CoffeeOrdersData" file, containing detailed information about eac sale made by the company.
@@ -31,6 +33,8 @@ EDA involved exploring the sales data to answer key questions, such as:
 - What is the overall sales trend?
 - Which customers are top 5?
 - What are the sales per country?
+![dashboard](https://github.com/user-attachments/assets/02b803c0-6908-4fbd-8a0a-fb9f37a29adf)
+
 
 ### Data Analysis
 ```Excel
