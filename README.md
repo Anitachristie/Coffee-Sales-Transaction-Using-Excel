@@ -33,7 +33,8 @@ EDA involved exploring the sales data to answer key questions, such as:
 - What is the overall sales trend?
 - Which customers are top 5?
 - What are the sales per country?
-![dashboard](https://github.com/user-attachments/assets/02b803c0-6908-4fbd-8a0a-fb9f37a29adf)
+  
+ ![excel dashboard](https://github.com/user-attachments/assets/0eeb8b40-7180-4dc1-ad1c-b267ed8bf7f1)
 
 
 ### Data Analysis
